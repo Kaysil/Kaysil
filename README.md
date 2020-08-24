@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C3C
 - 🌱 I’m currently learning Node.js
 - 🌍 I'm live in Ho Chi Minh city, Vietnam
 
