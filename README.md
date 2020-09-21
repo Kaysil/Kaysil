@@ -22,7 +22,7 @@
 <a href="https://www.youtube.com/c/kaysil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kaysil" height="30" width="30" /></a>
 <a href="https://discordapp.com/users/401227329092976651" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Kaysil#6666" height="30" width="30" /></a>
 
-<br>
+<hr>
 
 [![Kaysil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula)
 
