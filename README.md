@@ -26,8 +26,8 @@
 <hr>
 
 <p align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula)](https://github.com/Kaysil)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=dracula)](https://github.com/Kaysil)
-
+   <a href="https://github.com/Kaysil>
+      <img alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula">
+      <img alt="Kaysil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=dracula">
+   </a>
 </p>
