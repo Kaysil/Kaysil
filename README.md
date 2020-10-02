@@ -26,6 +26,6 @@
 <hr>
 
 <p align="center">
-      <img alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula">
-      <img alt="Kaysil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=dracula">
+      <img href="https://github.com/Kaysil" alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula">
+      <img href="https://github.com/Kaysil" alt="Kaysil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=dracula">
 </p>
