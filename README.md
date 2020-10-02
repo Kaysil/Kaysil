@@ -16,11 +16,11 @@
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></p>
 
 <p align="center">
-<a href="https://twitter.com/kaysil_tiuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kaysil_tiuu" height="30" width="30" /></a>
-<a href="https://fb.com/kaysil.666" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kaysil.666" height="30" width="30" /></a>
-<a href="https://instagram.com/kaysil.tiuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kaysil.tiuu" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/kaysil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kaysil" height="30" width="30" /></a>
-<a href="https://discordapp.com/users/401227329092976651" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Kaysil#6666" height="30" width="30" /></a>
+<code><a href="https://twitter.com/kaysil_tiuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kaysil_tiuu" height="30" width="30" /></a></code>
+<code><a href="https://fb.com/kaysil.666" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kaysil.666" height="30" width="30" /></a></code>
+<code><a href="https://instagram.com/kaysil.tiuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kaysil.tiuu" height="30" width="30" /></a></code>
+<code><a href="https://www.youtube.com/c/kaysil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kaysil" height="30" width="30" /></a></code>
+<code><a href="https://discordapp.com/users/401227329092976651" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Kaysil#6666" height="30" width="30" /></a></code>
 </p>
 
 <hr>
