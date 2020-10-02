@@ -24,7 +24,7 @@
 
 <hr>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=gradient)](https://github.com/Kaysil)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=gradient)](https://github.com/Kaysil)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula)](https://github.com/Kaysil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=dracula)](https://github.com/Kaysil)
 
 </p>
