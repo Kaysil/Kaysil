@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaysil</h1>
 <h3 align="center">I am coder from Vietnam 🇻🇳</h3>
 
-- 🔭 I’m currently working on [c3cbot](https://github.com/c3cbot/c3cbot)
+- 🔭 I’m currently working on [Project Decimus](https://github.com/project-dec1mus)
 
 - 🌱 I’m currently learning **Node.js**
 
