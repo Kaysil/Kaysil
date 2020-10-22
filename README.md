@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kaysil](https://github.com/Kaysil)
+- 👨‍💻 All of my projects are available at: [here](https://github.com/Kaysil)
 
 - 💬 Ask me about **JavaScript**
 
