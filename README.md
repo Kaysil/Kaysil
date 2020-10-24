@@ -31,7 +31,7 @@
 <hr>
 
 <p align="center">
-      <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&bg_color=4266f5,fa3253,34f768"></a>
+      <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&bg_color=f78834,f73437,f7349f"></a>
       <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=dracula&layout=compact"></a>
 </p>
 
