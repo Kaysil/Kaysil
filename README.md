@@ -38,5 +38,5 @@
 <hr>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Kaysil/Kaysil/issues/1) in [Kaysil/Kaysil](https://github.com/Kaysil/Kaysil)
+1. ❗️ Closed issue [#1](https://github.com/Kaysil/Kaysil/issues/1) in [Kaysil/Kaysil](https://github.com/Kaysil/Kaysil)
 <!--END_SECTION:activity-->
