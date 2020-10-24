@@ -34,3 +34,7 @@
       <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&theme=dracula"></a>
       <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&theme=dracula"></a>
 </p>
+
+<hr>
+
+<!--START_SECTION:activity-->
