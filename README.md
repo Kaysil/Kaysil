@@ -31,8 +31,8 @@
 <hr>
 
 <p align="center">
-      <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&bg_color=100,22c1c3,e6a416&hide_rank=true"></a>
-      <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&bg_color=100,22c1c3,e6a416&layout=compact"></a>
+      <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api?username=Kaysil&show_icons=true&hide_border=true&bg_color=100,d7a860,ff002a&hide_rank=true"></a>
+      <a href="https://github.com/Kaysil"><img alt="Kaysil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaysil&bg_color=100,d7a860,ff002a&layout=compact"></a>
 </p>
 
 <hr>
