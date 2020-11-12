@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaysil</h1>
-<h3 align="center">I'm a coder from Vietnam 🇻🇳</h3>
+<h3 align="center">I'm a coder & student from Vietnam 🇻🇳</h3>
 
 - 🔭 I’m currently working on [Project Decimus](https://github.com/project-dec1mus)
 
